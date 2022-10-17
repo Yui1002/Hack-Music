@@ -1,0 +1,31 @@
+.favorite_playlist {
+  /* width: 240px;
+  height: 200px;
+  background-color: #343434;
+  margin: 10px; */
+  float: left;
+	width: 240px;
+  height: 200px;
+  background-color: #343434;
+  margin: 10px;
+}
+
+.favorite_playlist_link {
+  display: block;
+  margin: 5px;
+  font-size: 18px;
+}
+
+.favorite_playlist_link:link {
+  color: #ffff;
+}
+
+.favorite_playlist_link:visited {
+  color: #BB2E3E;
+}
+
+
+.favorite_playlist_img {
+  width: 240px;
+  height: 140px;
+}

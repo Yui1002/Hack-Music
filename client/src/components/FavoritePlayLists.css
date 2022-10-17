@@ -1,0 +1,10 @@
+.favorite_playlists {
+  overflow: hidden;
+  display: inline-block;
+}
+
+.favorite_playlists_title {
+  font-size: 24px;
+  margin: 70px 0 20px 0;
+}
+

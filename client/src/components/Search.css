@@ -1,0 +1,32 @@
+.search_container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+.search_title {
+  font-size: 20px;
+  color: #000;
+}
+
+.select_form {
+  margin: 10px;
+  width: 200px;
+  height: 40px
+}
+
+.artist_input, .year_input, .album_input {
+  margin: 10px;
+  width: 200px;
+  height: 40px;
+}
+
+.search_button {
+  width: 120px;
+  height: 83px;
+  background-color: #eb6157;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
